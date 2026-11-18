@@ -132,4 +132,63 @@ Strong positive relationships were observed between academic subjects:
 - Mathematics & Reading: 0.818
 - Mathematics & Writing: 0.803
 
-**5. At-Risk
+**5. At-Risk Students**
+
+Students scoring below 50 in at least one subject were classified as academically at risk.
+
+- Total students: 1,000
+- At-risk students: 188
+- At-risk percentage: 18.8%
+
+Students with free/reduced lunch and those who did not complete test preparation showed higher at-risk percentages.
+
+## 📉 Visualizations
+
+The `charts/` folder contains visualizations created to communicate the findings and highlight patterns in student performance.
+
+These visualizations help compare academic scores, understand relationships between variables, and identify potential areas of concern.
+
+## 📑 Project Deliverables
+
+| File | Description |
+|---|---|
+| `dataset/` | Dataset files used for analysis |
+| `charts/` | Charts and visualizations |
+| `Analysis_Summary.md` | Summary of analysis and findings |
+| `Principal_Report.pdf` | Final report for school administration |
+| `Principal_Report.docx` | Editable version of the report |
+
+## 💡 Business / Educational Insights
+
+The analysis highlights several important observations:
+
+- Test preparation is associated with better academic performance.
+- Parental education is positively associated with student scores.
+- Students receiving free/reduced lunch have a higher academic risk percentage.
+- Reading and writing scores are strongly correlated.
+- Mathematics requires additional attention due to its lower average score.
+- Identifying at-risk students can help schools provide targeted academic support.
+
+**Note:** These findings represent statistical associations and do not establish direct causation.
+
+## 🚀 Future Improvements
+
+- Build an interactive student performance dashboard.
+- Develop predictive models to identify students at risk.
+- Perform deeper statistical analysis.
+- Explore additional factors affecting academic outcomes.
+- Create automated reporting for educational institutions.
+
+## 👨‍💻 Author
+
+**Shivam**
+
+GitHub: [@shivam2129sv](https://github.com/shivam2129sv)
+
+Project Repository: [Student-Performance-Review](https://github.com/shivam2129sv/Student-Performance-Review)
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+
